@@ -1,6 +1,7 @@
 # Employee Management System
 
-A web-based system built using Laravel to manage employee data.
+##Description
+A Laravel-based employee management system that allows administrators to manage employees and assign tasks, while tracking tasks and processing data efficiently
 
 ## Features
 - CRUD operations
